@@ -2,8 +2,8 @@ from gtts import gTTS
 import imaplib
 import email
 
-user = 'seulseulgi20@gmail.com'
-password = 'kangseulgi'
+user = 'tryagainpraba@gmail.com'
+password = 'jangancobacoba'
 url = 'imap.gmail.com'
 con = imaplib.IMAP4_SSL(url)
 con.login(user, password)
