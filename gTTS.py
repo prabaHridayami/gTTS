@@ -8,7 +8,7 @@ class MyFrame1(wx.Frame):
 
     def __init__(self, parent):
         wx.Frame.__init__(self, parent, id=wx.ID_ANY, title=wx.EmptyString, pos=wx.DefaultPosition,
-                          size=wx.Size(296, 461), style=wx.DEFAULT_FRAME_STYLE | wx.TAB_TRAVERSAL)
+                          size=wx.Size(723, 473), style=wx.DEFAULT_FRAME_STYLE | wx.TAB_TRAVERSAL)
 
         self.SetSizeHintsSz(wx.DefaultSize, wx.DefaultSize)
 
@@ -32,7 +32,7 @@ class MyFrame1(wx.Frame):
         sbSizer1.Add(self.m_staticText2, 0, wx.ALL, 5)
 
         self.m_text1 = wx.TextCtrl(sbSizer1.GetStaticBox(), wx.ID_ANY, wx.EmptyString, wx.DefaultPosition,
-                                   wx.Size(250, -1), 0)
+                                   wx.Size(800, -1), 0)
         sbSizer1.Add(self.m_text1, 0, wx.ALL, 5)
 
         self.m_staticText31 = wx.StaticText(sbSizer1.GetStaticBox(), wx.ID_ANY, u"Subjek", wx.DefaultPosition,
@@ -41,7 +41,7 @@ class MyFrame1(wx.Frame):
         sbSizer1.Add(self.m_staticText31, 0, wx.ALL, 5)
 
         self.m_text2 = wx.TextCtrl(sbSizer1.GetStaticBox(), wx.ID_ANY, wx.EmptyString, wx.DefaultPosition,
-                                   wx.Size(250, -1), 0)
+                                   wx.Size(800, -1), 0)
         sbSizer1.Add(self.m_text2, 0, wx.ALL, 5)
 
         self.m_staticText4 = wx.StaticText(sbSizer1.GetStaticBox(), wx.ID_ANY, u"Pesan", wx.DefaultPosition,
@@ -51,7 +51,7 @@ class MyFrame1(wx.Frame):
 
         self.m_text3 = wx.TextCtrl(sbSizer1.GetStaticBox(), wx.ID_ANY, wx.EmptyString, wx.DefaultPosition,
                                    wx.DefaultSize, 0)
-        self.m_text3.SetMinSize(wx.Size(250, 200))
+        self.m_text3.SetMinSize(wx.Size(800, 200))
 
         sbSizer1.Add(self.m_text3, 0, wx.ALL, 5)
 
