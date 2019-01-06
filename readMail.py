@@ -28,7 +28,7 @@ def get_email(num):
     return data
 
 
-def save_speech():
+def save_speech(self):
     con.select('INBOX')
     # mencari email yang belum terbaca
     result, data = con.search(None, 'UNSEEN')
@@ -63,5 +63,9 @@ def save_speech():
         dari.save('dari.mp3')
         subjek.save('subjek.mp3')
         tts.save('speech.mp3')
+
+        self.m_text1.AppendText(origin['From'])
+        self.m_text2.AppendText(origin['Subject'])
+        self.m_text3.AppendText(body)
 
         return 0

@@ -4,10 +4,13 @@
     <list default="true" id="75092d57-5604-4cae-bc43-df28b5e493c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GUI.fbp" beforeDir="false" afterPath="$PROJECT_DIR$/GUI.fbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aku.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baru.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baru1.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gTTS.py" beforeDir="false" afterPath="$PROJECT_DIR$/gTTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/readMail.py" beforeDir="false" afterPath="$PROJECT_DIR$/readMail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/speech.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech.py" beforeDir="false" afterPath="$PROJECT_DIR$/speech.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.mp3" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gTTS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="733">
-              <caret line="85" column="27" lean-forward="true" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+            <state relative-caret-position="108">
+              <caret line="74" column="27" lean-forward="true" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -41,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readMail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="176">
+              <caret line="67" column="50" lean-forward="true" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -67,13 +70,13 @@
       <list>
         <option value="$PROJECT_DIR$/gui.py" />
         <option value="$PROJECT_DIR$/email.py" />
-        <option value="$PROJECT_DIR$/gTTS.py" />
-        <option value="$PROJECT_DIR$/readMail.py" />
         <option value="$PROJECT_DIR$/speech.py" />
+        <option value="$PROJECT_DIR$/readMail.py" />
+        <option value="$PROJECT_DIR$/gTTS.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -100,7 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/TUGAS TI/SMT 5/DataWarehouseKRS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -193,7 +196,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -201,14 +204,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85193455" visible="true" weight="0.39455783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85119045" visible="true" weight="0.39455783" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49925596" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49776787" weight="0.32993197" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14806548" side_tool="true" visible="true" weight="0.39455783" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49702382" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14880952" side_tool="true" visible="true" weight="0.39455783" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -246,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readMail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="176">
+          <caret line="67" column="50" lean-forward="true" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -263,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gTTS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="85" column="27" lean-forward="true" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+        <state relative-caret-position="108">
+          <caret line="74" column="27" lean-forward="true" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
