@@ -69,12 +69,15 @@ class MyFrame1(wx.Frame):
         pass
 
     def btn_speech(self,event):
+        #menjalankan fungsi save_speech pada file readMail.py
         status = readMail.save_speech(self)
+        #jika status yang dikembalikan 0 maka fungsi-fungsi dari file speech dijalankan
         if status == 0:
             speech.dari()
             speech.subjek()
             speech.speech()
         else:
+            #jika tidak maka akan menampilkan messageBox bahwa semua pesan telah terbaca
             wx.MessageBox('Semua email telah terbaca', 'Message', wx.OK)
 
 
